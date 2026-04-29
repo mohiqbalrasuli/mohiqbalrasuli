@@ -14,7 +14,7 @@
 - 🔭 Currently working on **exciting full-stack projects**
 - 🌱 Currently learning **Cloud Architecture & DevOps**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, React, and APIs**
+- 💬 Ask me about **JavaScript, Laravel, React, Vue.Js,and APIs**
 - 📫 Reach me at **mohiqbalrasuli@gmail.com**
 - ⚡ Fun fact: *I debug code faster with coffee ☕*
 
