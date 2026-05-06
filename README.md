@@ -1,67 +1,110 @@
+<!-- Header -->
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Iqbal!;Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things)
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohiqbalrasuli&label=Profile+Views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/mohiqbalrasuli?label=Followers&style=social)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Iqbal!%20%F0%9F%91%8B&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=62" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Frontend+%26+Backend+Developer;Transforming+ideas+into+code;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/mohiqbalrasuli">
+    <img src="https://komarev.com/ghpvc/?username=mohiqbalrasuli&label=Profile+Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/mohiqbalrasuli?tab=followers">
+    <img src="https://img.shields.io/github/followers/mohiqbalrasuli?label=Followers&style=for-the-badge&color=00F0FF" alt="Followers" />
+  </a>
+</p>
+
 ---
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="250" />
 
 ## 🚀 About Me
 
 - 🔭 Currently working on **exciting full-stack projects**
 - 🌱 Currently learning **Cloud Architecture & DevOps**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Laravel, React, Vue.Js,and APIs**
-- 📫 Reach me at **mohiqbalrasuli@gmail.com**
+- 💬 Ask me about **JavaScript, Laravel, React, Vue.js, and APIs**
+- 📫 Reach me at <a href="mailto:mohiqbalrasuli@gmail.com">**mohiqbalrasuli@gmail.com**</a>
 - ⚡ Fun fact: *I debug code faster with coffee ☕*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <p><i>Technologies and tools I use to build things:</i></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,laravel,vue,react,tailwind,vite&perline=7" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,git,github,docker,postman&perline=7" />
+  </a>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
+  <a href="https://github.com/mohiqbalrasuli">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohiqbalrasuli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Iqbal's GitHub Stats" />
+  </a>
+  <a href="https://github.com/mohiqbalrasuli">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohiqbalrasuli&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
 
-![Iqbal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohiqbalrasuli&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiqbalrasuli&layout=compact&theme=github_dark&hide_border=true)
+<br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohiqbalrasuli&theme=github-dark&hide_border=true)
+<div align="center">
+  <a href="https://github.com/mohiqbalrasuli">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohiqbalrasuli&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+  </a>
+</div>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mohiqbalrasuli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <a href="https://github.com/mohiqbalrasuli">
+    <img src="https://streak-stats.demolab.com?user=mohiqbalrasuli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohiqbalrasuli)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.iqbal.rsl)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohiqbalrasuli.netlify.app)
+<div align="center">
+  <a href="https://linkedin.com/in/mohiqbalrasuli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/m.iqbal.rsl" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://mohiqbalrasuli.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:mohiqbalrasuli@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
----
+<br>
 
-<div align="center">⭐ From <a href="https://github.com/mohiqbalrasuli">mohiqbalrasuli</a> — thanks for visiting!</div>
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=24" width="100%" />
+</div>
