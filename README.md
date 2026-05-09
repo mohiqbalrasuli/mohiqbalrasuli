@@ -179,35 +179,32 @@ fun_fact: "I debug 10x faster with coffee ☕"
 <tr>
 <td width="50%">
 
-### 🔥 Project Alpha
-> *Short description of your best project — what problem it solves and the tech stack used.*
+### 🚨 BPBD Sumenep Disaster Management
+> *A comprehensive disaster management and reporting system for BPBD Sumenep. Features public disaster reporting, dynamic statistics, and geographical disaster mapping.*
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/🔗%20View%20Repo-0f0c29?style=for-the-badge)](https://github.com/mohiqbalrasuli)
-[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-302b63?style=for-the-badge)](https://mohiqbalrasuli.netlify.app)
 
 </td>
 <td width="50%">
 
-### ⚡ Project Beta
-> *Another project highlight — keep it concise and impactful. Show your technical depth here.*
+### 🖼️ Dynamic Media Management System
+> *A robust gallery and media management application supporting both photo and video content types, complete with an administrative dashboard and data validation.*
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/🔗%20View%20Repo-0f0c29?style=for-the-badge)](https://github.com/mohiqbalrasuli)
-[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-302b63?style=for-the-badge)](https://mohiqbalrasuli.netlify.app)
 
 </td>
 </tr>
 </table>
 </div>
-
-> 💡 *Replace the placeholder project cards above with your real projects!*
 
 ---
 
@@ -219,7 +216,7 @@ fun_fact: "I debug 10x faster with coffee ☕"
 
 <div align="center">
 
-![snake gif](https://github.com/mohiqbalrasuli/mohiqbalrasuli/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/mohiqbalrasuli/mohiqbalrasuli/raw/output/github-contribution-grid-snake-dark.svg)
 
 > ⚠️ *To enable the snake animation, set up the [GitHub Actions workflow](https://github.com/Platane/snk) in your profile repo.*
 
