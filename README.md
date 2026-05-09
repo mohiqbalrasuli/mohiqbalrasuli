@@ -8,7 +8,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&multiline=false&width=600&lines=🚀+Building+scalable+web+applications;⚡+Laravel+%7C+Vue.js+%7C+React+%7C+PostgreSQL;🌐+Turning+ideas+into+elegant+code;🔥+Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&multiline=false&width=650&lines=🚀+Building+scalable+web+applications;⚡+Laravel+%7C+Vue.js+%7C+React+%7C+PostgreSQL;🌐+Turning+ideas+into+elegant+code;🔥+Always+learning%2C+always+shipping;💡+Clean+Code+%7C+Better+Tomorrow" alt="Typing SVG" />
 </div>
 
 <br>
@@ -24,6 +24,8 @@
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-✅%20Available-00D26A?style=for-the-badge&labelColor=302b63" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-Indonesia%20🇮🇩-FF2D20?style=for-the-badge&labelColor=302b63" />
 </div>
 
 <br>
@@ -41,15 +43,20 @@
 ## 🧠 About Me
 
 ```yaml
-name: "Mohammad Iqbal Rasuli"
-location: "Indonesia 🇮🇩"
-role: "Full Stack Developer"
+name:       "Mohammad Iqbal Rasuli"
+location:   "Surabaya, Indonesia 🇮🇩"
+role:       "Full Stack Developer"
 experience: "3+ years"
 
 currently:
   working_on: "Exciting full-stack projects"
   learning:   "Cloud Architecture & DevOps"
-  open_to:    "Open Source Collaboration"
+  open_to:    ["Freelance", "Full-time", "Open Source"]
+
+stack_philosophy:
+  - "Simple > Clever"
+  - "Working > Perfect"
+  - "Readable > Terse"
 
 passions:
   - "Building products that matter"
@@ -63,6 +70,10 @@ fun_fact: "I debug 10x faster with coffee ☕"
 <td width="45%" valign="middle" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding" style="border-radius: 12px;" />
+
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00F0FF?style=for-the-badge&labelColor=0f0c29)](https://mohiqbalrasuli.netlify.app)
 
 </td>
 </tr>
@@ -82,6 +93,7 @@ fun_fact: "I debug 10x faster with coffee ☕"
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
@@ -90,18 +102,26 @@ fun_fact: "I debug 10x faster with coffee ☕"
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🗄️ Database & Cache
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### 🔧 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🧪 Testing & Quality
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 </div>
 
@@ -115,15 +135,16 @@ fun_fact: "I debug 10x faster with coffee ☕"
 
 <div align="center">
 
-| Skill | Proficiency |
-|-------|------------|
-| **Laravel / PHP** | `████████████████████` 90% |
-| **Vue.js** | `███████████████████░` 85% |
-| **React.js** | `██████████████████░░` 80% |
-| **JavaScript / ES6+** | `████████████████████` 90% |
-| **MySQL / PostgreSQL** | `████████████████░░░░` 75% |
-| **Docker / DevOps** | `█████████████░░░░░░░` 60% |
-| **Redis / Caching** | `████████████████░░░░` 70% |
+| Skill | Proficiency | Level |
+|-------|------------|-------|
+| **Laravel / PHP** | `████████████████████` | 90% — Expert |
+| **JavaScript / ES6+** | `████████████████████` | 90% — Expert |
+| **Vue.js** | `███████████████████░` | 85% — Advanced |
+| **React.js** | `██████████████████░░` | 80% — Advanced |
+| **MySQL / PostgreSQL** | `████████████████░░░░` | 75% — Proficient |
+| **Redis / Caching** | `████████████████░░░░` | 70% — Proficient |
+| **Docker / DevOps** | `█████████████░░░░░░░` | 60% — Intermediate |
+| **Cloud Architecture** | `██████████░░░░░░░░░░` | 50% — Learning |
 
 </div>
 
@@ -177,27 +198,81 @@ fun_fact: "I debug 10x faster with coffee ☕"
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚨 BPBD Sumenep Disaster Management
-> *A comprehensive disaster management and reporting system for BPBD Sumenep. Features public disaster reporting, dynamic statistics, and geographical disaster mapping.*
+### 🚨 BPBD Sumenep — Disaster Management System
+> *Platform manajemen bencana komprehensif untuk BPBD Sumenep. Dilengkapi pelaporan bencana publik real-time, statistik dinamis, dan peta persebaran bencana berbasis GIS.*
+
+**Key Features:**
+- 🗺️ Geographical disaster mapping (GIS)
+- 📊 Dynamic statistics dashboard
+- 📢 Public disaster reporting portal
+- 🔐 Role-based access control
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Leaflet.js](https://img.shields.io/badge/-Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/🔗%20View%20Repo-0f0c29?style=for-the-badge)](https://github.com/mohiqbalrasuli)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🖼️ Dynamic Media Management System
-> *A robust gallery and media management application supporting both photo and video content types, complete with an administrative dashboard and data validation.*
+> *Aplikasi manajemen galeri dan media yang robust, mendukung konten foto dan video, lengkap dengan dashboard administratif dan validasi data.*
+
+**Key Features:**
+- 📸 Multi-type media support (photo & video)
+- 🛡️ Admin dashboard with full CRUD
+- ✅ Data validation & sanitization
+- 📁 Organized media categories
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+
+[![Repo](https://img.shields.io/badge/🔗%20View%20Repo-0f0c29?style=for-the-badge)](https://github.com/mohiqbalrasuli)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Inventory & Stock Management
+> *Sistem inventaris berbasis web untuk manajemen stok barang, pemantauan keluar-masuk barang, dan laporan otomatis.*
+
+**Key Features:**
+- 📊 Real-time stock tracking
+- 📋 Automated report generation
+- 🔔 Low-stock notifications
+- 📈 Analytics & trends
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/🔗%20View%20Repo-0f0c29?style=for-the-badge)](https://github.com/mohiqbalrasuli)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 REST API Boilerplate
+> *Template REST API production-ready dengan autentikasi JWT, rate limiting, logging, dan dokumentasi Swagger otomatis.*
+
+**Key Features:**
+- 🔐 JWT Authentication
+- 🚦 Rate limiting & throttling
+- 📝 Auto Swagger docs
+- 🧪 Full test coverage
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/-PHPUnit-3776AB?style=flat-square&logo=php&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/🔗%20View%20Repo-0f0c29?style=for-the-badge)](https://github.com/mohiqbalrasuli)
 
@@ -205,6 +280,27 @@ fun_fact: "I debug 10x faster with coffee ☕"
 </tr>
 </table>
 </div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                  EXPERIENCE TIMELINE                         -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+## 🗓️ Experience & Journey
+
+```
+2021  ───────────────────────────────────────────────────────────────▶  Now
+
+[2021] 🎓 Started learning web development — PHP, HTML, CSS, JS
+[2022] ⚡ First Laravel project — fell in love with MVC patterns
+[2022] 🌱 Built first production app — inventory management system
+[2023] 🔥 Mastered Vue.js & React — went full-stack
+[2023] 🚀 Delivered BPBD Sumenep disaster management platform
+[2024] 🐳 Adopted Docker, learned CI/CD pipelines
+[2024] 📦 Open-source contributions & community involvement
+[2025] ☁️  Exploring Cloud Architecture, Kubernetes & scalable systems
+```
 
 ---
 
@@ -218,7 +314,7 @@ fun_fact: "I debug 10x faster with coffee ☕"
 
 ![snake gif](https://github.com/mohiqbalrasuli/mohiqbalrasuli/raw/output/github-contribution-grid-snake-dark.svg)
 
-> ⚠️ *To enable the snake animation, set up the [GitHub Actions workflow](https://github.com/Platane/snk) in your profile repo.*
+> ⚠️ *Untuk mengaktifkan animasi snake, setup [GitHub Actions workflow](https://github.com/Platane/snk) di profile repo kamu.*
 
 </div>
 
@@ -237,6 +333,18 @@ fun_fact: "I debug 10x faster with coffee ☕"
 ---
 
 <!-- ████████████████████████████████████████████████████████████ -->
+<!--                  WEEKLY CODING STATS                         -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+> 📌 *Setup [WakaTime](https://wakatime.com) dan [waka-readme](https://github.com/athul/waka-readme) untuk menampilkan statistik coding mingguan otomatis di sini.*
+<!--END_SECTION:waka-->
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
 <!--                      CONNECT SECTION                         -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
@@ -244,22 +352,44 @@ fun_fact: "I debug 10x faster with coffee ☕"
 
 <div align="center">
 
-*I'm always open to interesting conversations and collaboration opportunities.*
+*Selalu terbuka untuk diskusi menarik, kolaborasi, dan peluang baru.*
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohiqbalrasuli)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.iqbal.rsl)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohiqbalrasuli.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohiqbalrasuli@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Say%20Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohiqbalrasuli@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62xxxxxxxxxx)
 
 <br>
 
 ```
-💼 Open to freelance projects and full-time opportunities
-📍 Based in Indonesia — available for remote work worldwide
-⏰ Usually responds within 24 hours
+💼  Open to freelance projects & full-time opportunities
+📍  Based in Indonesia — available for remote work worldwide
+⏰  Response time: usually within 24 hours
+🤝  Let's build something amazing together!
 ```
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                   RANDOM FUN FACTS                           -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+## ⚡ Fun Facts
+
+<div align="center">
+
+| # | Fact |
+|---|------|
+| 🧠 | I've read the Laravel docs more than any novel |
+| ☕ | My commit history correlates with my coffee intake |
+| 🐛 | I spend 20% coding and 80% debugging — proudly |
+| 🌙 | Best ideas come after midnight (and before standup) |
+| 🎮 | I name my variables better than my characters in games |
 
 </div>
 
@@ -271,9 +401,9 @@ fun_fact: "I debug 10x faster with coffee ☕"
 
 <div align="center">
 
-### ⭐ If you find my work valuable, consider starring my repos!
+### ⭐ Jika kamu menemukan karyaku bermanfaat, pertimbangkan untuk memberi bintang pada repo-ku!
 
-*It means a lot and motivates me to keep building and sharing* 🙏
+*Itu sangat berarti dan memotivasiku untuk terus membangun dan berbagi* 🙏
 
 <br>
 
