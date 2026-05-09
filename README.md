@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Mohammad%20Iqbal%20Rasuli&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Coffee%20Addict%20%E2%98%95&descAlignY=60&descAlign=50&descSize=16&descColor=a0a0c0" width="100%" />
 </div>
-<<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=🚀+Building+scalable+web+applications;⚡+Laravel+%7C+Vue.js+%7C+React+%7C+PostgreSQL;🌐+Turning+ideas+into+elegant+code;🔥+Always+learning%2C+always+shipping;💡+Clean+Code+%7C+Better+Tomorrow" alt="Typing SVG" />
 </div>
@@ -348,7 +348,6 @@ fun_fact: "I debug 10x faster with coffee ☕"
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-> 📌 *Setup [WakaTime](https://wakatime.com) dan [waka-readme](https://github.com/athul/waka-readme) untuk menampilkan statistik coding mingguan otomatis di sini.*
 <!--END_SECTION:waka-->
 
 ---
