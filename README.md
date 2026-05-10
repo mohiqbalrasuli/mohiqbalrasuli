@@ -3,7 +3,7 @@
 <!-- ████████████████████████████████████████████████████████████ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Mohammad%20Iqbal%20Rasuli&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Coffee%20Addict%20%E2%98%95&descAlignY=60&descAlign=50&descSize=16&descColor=a0a0c0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Moh.%20Iqbal%20Rasuli&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Coffee%20Addict%20%E2%98%95&descAlignY=60&descAlign=50&descSize=16&descColor=a0a0c0" width="100%" />
 </div>
 <!-- TYPING ANIMATION -->
 <div align="center">
