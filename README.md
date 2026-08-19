@@ -350,15 +350,15 @@ fun_fact: "I debug 10x faster with coffee ☕"
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2026 - To: 17 August 2026
+From: 11 August 2026 - To: 18 August 2026
 
-Total Time: 39 mins
+Total Time: 1 hr 38 mins
 
-PHP    22 mins               ██████████████▓░░░░░░░░░░   58.05 %
-Dart   10 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
-YAML   5 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-JSON   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-HTML   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+PHP              43 mins               ███████████░░░░░░░░░░░░░░   44.40 %
+Blade Template   38 mins               █████████▓░░░░░░░░░░░░░░░   38.94 %
+Dart             10 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+YAML             5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+JSON             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
