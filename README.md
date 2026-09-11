@@ -350,11 +350,13 @@ fun_fact: "I debug 10x faster with coffee ☕"
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Total Time: 5 mins
+Total Time: 16 mins
 
-Blade Template   5 mins                █████████████████████████   100.00 %
+Blade Template   12 mins               ██████████████████▓░░░░░░   74.34 %
+XML              2 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+PHP              2 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
 ```
 
 <!--END_SECTION:waka-->
